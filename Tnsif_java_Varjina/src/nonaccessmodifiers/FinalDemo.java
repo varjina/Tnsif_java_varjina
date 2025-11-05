@@ -1,4 +1,4 @@
-package nonaccessmodifiers;
+package com.tnsif.nonaccessmodifiers;
 
 final class FinalDemo {
 	
